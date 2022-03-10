@@ -1,2 +1,2 @@
-# C24-InicioAlumno
-Código para iniciar la clase 24 para el alumno.
+# p5.play-boilerplate
+Boiler plate for p5.play
